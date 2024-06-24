@@ -3,15 +3,19 @@
 
 ## Run Attacks
 
-"""bash
+Generate data: 
+```bash
 bash scripts/attack/cifar10/fgsm_test_ood.sh
 bash scripts/attack/cifar10/pgd_test_ood.sh
 bash scripts/attack/cifar10/mpgd_test_ood.sh
 bash scripts/attack/cifar10/df_test_ood.sh
-"""
+```
+
+or [download data here](https://osf.io/6ywmh/?view_only=ff96d6d9151a48e09497366782495dd3).
 
 
 
+## OpenOOD
 
 <!--
 | :exclamation:  We are looking forward to further extending the scope and building OpenOOD v2.0. Specifically, we are interested in 1) incorporating more modalities (e.g., text/language), 2) OOD in vision-language models, multi-modal foundation models, and large language models. If you want to join us or have any other ideas/thoughts, please don't heisitate to contact [jingkang001@e.ntu.edu.sg](mailto:jingkang001@e.ntu.edu.sg)! |
