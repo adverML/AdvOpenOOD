@@ -11,10 +11,6 @@ bash scripts/attack/cifar10/mpgd_test_ood.sh
 bash scripts/attack/cifar10/df_test_ood.sh
 ```
 
-or [download data here](https://osf.io/6ywmh/?view_only=ff96d6d9151a48e09497366782495dd3).
-
-
-
 ## OpenOOD
 
 <!--
