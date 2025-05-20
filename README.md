@@ -1,5 +1,8 @@
 # AdvOpenOOD: Extending OpenOOD with Adversarial Examples
 
+This code has been merged into the official OpenOOD repository! :) 
+https://github.com/Jingkang50/OpenOOD/pull/275
+
 
 ## Run Attacks
 
